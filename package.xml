@@ -7,6 +7,7 @@
   <maintainer email="youpeyi1110@icloud.com">Yohei Sato</maintainer>
   <license>BSD-3-Clause</license>
 
+  <exec_depend>person_msgs</exec_depend>
   <exec_depend>launch_ros</exec_depend>
 
   <test_depend>ament_copyright</test_depend>
